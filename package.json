@@ -9,6 +9,9 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
+    "grapesjs": "^0.21.10",
+    "grapesjs-plugin-forms": "^2.0.6",
+    "grapesjs-preset-webpage": "^1.0.3",
     "vue": "^3.2.13",
     "vue-router": "^4.0.3"
   },
