@@ -10,6 +10,7 @@
   "dependencies": {
     "core-js": "^3.8.3",
     "grapesjs": "^0.21.10",
+    "grapesjs-blocks-basic": "^1.0.2",
     "grapesjs-plugin-forms": "^2.0.6",
     "grapesjs-preset-webpage": "^1.0.3",
     "vue": "^3.2.13",
