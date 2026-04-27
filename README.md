@@ -1,24 +1,25 @@
-# website-builder
+# Website Builder - GrapesJS + Vue 3
 
-## Project setup
-```
-yarn install
-```
+A modern, no-code website builder application built with **GrapesJS**, **Vue 3**, and **JavaScript**. Create stunning websites visually without writing code.
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+## Features
 
-### Compiles and minifies for production
-```
-yarn build
-```
+- 🎨 Drag-and-drop visual editor
+- ⚡ Built with Vue 3 for reactive UI
+- 🔧 Powered by GrapesJS framework
+- 📱 Responsive design support
+- 💾 Save and export projects
 
-### Lints and fixes files
-```
-yarn lint
-```
+## YouTube Live Preview
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Check out the live preview and demo:
+
+[![Website Builder Preview](https://img.youtube.com/vi/IfxLUkDu-hc/0.jpg)](https://www.youtube.com/watch?v=IfxLUkDu-hc)
+
+
+
+
+## Tech Stack
+
+- **Vue 3** (49.7%) - Progressive JavaScript framework
+- **GrapesJS** (44.2%) - Core functionality
